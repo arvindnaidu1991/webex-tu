@@ -1,0 +1,6 @@
+{
+  "name": "Webex Master Portal & Training Suite",
+  "description": "Comprehensive production companion and workspace for Webex, Webex Calling, and Contact Center with Interactive Troubleshooting, CLI generators, and DOCX/PDF manual downloader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
